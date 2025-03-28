@@ -5,7 +5,7 @@ import Constants from 'expo-constants';
 
 export default function MovieDetailScreen({ route }) {
   const [movie, setMovie] = useState(null);
-  const API_KEY ='fb26f480' ;
+  const API_KEY ='your api key' ;
   const { imdbID } = route.params;
 
   useEffect(() => {
