@@ -28,7 +28,7 @@
       "favicon": "./assets/favicon.png"
     },
     "extra": {
-      "OMDB_API_KEY": "http://www.omdbapi.com/?i=tt3896198&apikey=fb26f480"
+      "OMDB_API_KEY": "http://www.omdbapi.com/?i=tt3896198&apike="provide api key"
     }
   }
 }
