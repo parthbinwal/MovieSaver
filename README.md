@@ -27,9 +27,8 @@ cd movie-search-app
 
 #FOLDER STRUCTURE 
 movie-search-app/
-├─ android/               # Android native code
-├─ ios/                   # iOS native code
-├─ src/
+                  
+├─ app
 │  ├─ components/         # Reusable components
 │  │  ├─ SearchBar.js
 │  │  
