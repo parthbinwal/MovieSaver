@@ -70,4 +70,4 @@ Plot summary
 
 Return to Search
 
-Press back button/gesture to return to search results
+Press back button/gesture to return to search result
